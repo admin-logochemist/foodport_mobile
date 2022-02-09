@@ -1,0 +1,22 @@
+{
+"restrurent":[
+    {
+        "img":"./components/assets/images/foodcart.png)",
+        "image": "require('./food-truck.png')",
+        "name":"ghayas bhai"
+    },
+    {
+        "img":"./components/assets/images/foodcart.png)",
+        "image": "require('./components/assets/foodcart.png')" ,
+        "name":"sohail"
+    },
+    {
+        "img":"./components/assets/images/foodcart.png)",
+        "image": "require('./assets/foodcart.png')" ,
+        "name":"hamza"
+    }
+]
+  
+
+
+}
