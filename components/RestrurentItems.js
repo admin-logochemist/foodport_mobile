@@ -21,7 +21,7 @@ export default function RestaurantItems({itemData,onPress}) {
             style={{ marginTop: 10, padding: 15, backgroundColor: "white" }}
           >
        <Image
-      source={require('../components/assets/images/foodcart.png')}
+      source={require('../components/assets/images/ressearch4.jpg')}
       style={{ width: "100%", height: 180 }}
     />
     <TouchableOpacity style={{ position: "absolute", right: 20, top: 20 }}>

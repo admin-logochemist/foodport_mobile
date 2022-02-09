@@ -3,12 +3,12 @@
     {
         "img":"./components/assets/images/foodcart.png)",
         "image": "require('./food-truck.png')",
-        "name":"ghayas bhai"
+        "name":"BBQ Chicken"
     },
     {
         "img":"./components/assets/images/foodcart.png)",
         "image": "require('./components/assets/foodcart.png')" ,
-        "name":"sohail"
+        "name":"Shushi Foods"
     },
     {
         "img":"./components/assets/images/foodcart.png)",
